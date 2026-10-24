@@ -3,6 +3,8 @@
 
 **Topics:** Agentic AI · Quality Assurance · Test Automation · Multi-Agent Systems · Human-in-the-Loop Design
 
+![Agentic QA Pipeline Architecture](agenticworkflow/Agenticworkflowgraph.png)
+
 ## Overview
 
 I built an agentic QA pipeline to help me manage software testing more efficiently while maintaining the level of review and evidence needed to make reliable QA decisions.
